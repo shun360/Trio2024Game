@@ -10,7 +10,7 @@ public class boll : MonoBehaviour
 
     void Start()
     {
-        targetPosition = new Vector3(-1, 0, 1);
+        targetPosition = new Vector3(0, 0, 1);
     }
 
     void Update()
