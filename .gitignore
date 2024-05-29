@@ -70,5 +70,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-# 追加文
-/Library/
+# 自動生成に追加
+/Creative_Trio/Library/
+/[Ll]ocal[Cc]ache/
+Creative_Trio/Library/ArtifactDB
+Creative_Trio/Library/Bee/fullprofile.json
