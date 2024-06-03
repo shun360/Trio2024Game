@@ -2,6 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+using System;
+
+public enum BattleCmd
+{
+    attack,
+    defence,
+    fireboll
+}
 public class NewBehaviourScript : MonoBehaviour
 {
     // Start is called before the first frame update
@@ -9,6 +17,7 @@ public class NewBehaviourScript : MonoBehaviour
     {
         Debug.Log("Start");
     }
+    
 
     // Update is called once per frame
     void Update()
