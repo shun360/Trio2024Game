@@ -353,6 +353,9 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.28f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.28f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/moveTest.cs"
+"Assets/Scripts/Item.cs"
+"Assets/Scripts/Slot.cs"
+"Assets/Scripts/SlotGrid.cs"
 -langversion:9.0
 /deterministic
 /optimize+
