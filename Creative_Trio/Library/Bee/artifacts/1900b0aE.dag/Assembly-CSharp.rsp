@@ -355,6 +355,7 @@
 "Assets/boll.cs"
 "Assets/moveTest.cs"
 "Assets/player/HeroScript.cs"
+"Assets/subCamera/SubCameraScript.cs"
 -langversion:9.0
 /deterministic
 /optimize+
